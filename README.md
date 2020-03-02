@@ -10,3 +10,6 @@ inferential_statistics_1b-Q6.25.ipynb
 
 inferential_statistics_2-Q.ipynb
 
+8.3: Bayesian Inference
+
+inferential_statistics_3-Q.ipynb
